@@ -1,0 +1,13 @@
+Package: hgwellsr
+Type: Package
+Title: Data package of selected H. G. Wells novels
+Version: 0.1.0
+Authors@R: person("Erik", "Howard", role= c("cre,aut"), email="erikhoward@protonmail.com"))
+Maintainer: Erik Howard <erikhoward@protonmail.com>
+Description: Full text data for selected H. G. Wells novels ready for data analysis.
+    This includes the novels Ann Vernnica, The History of Mr Polly, The Invisible Man,
+    The Island of Doctor Moreau, The Time Machine and The War of the Worlds.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+URL: https://github.com/erikhoward/hgwellsr
